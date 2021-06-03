@@ -166,8 +166,8 @@ if ($_POST) { // We check if there is a post.
 ?>
 ```
 
-#### a little thank you
-* While creating this project, I converted a previously shared article to PDO as an example.
+#### Source and Thanks 
+* Someone shared this project as mysqli before, so I convert this project to PDO and share it with you.
 * If you are looking for the MYSQLI version of this project, you can find it from this [link](https://mesutd.com/jquery-ajax-kullanarak-php-mysql-satir-ici-duzenleme/)
 
 
